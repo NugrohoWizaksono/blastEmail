@@ -145,11 +145,11 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
                                 <!--Jobs Item 1-->
                                 <tr style="padding:20px 40px; display:block;">
                                     <td width="350" style="display:inline-block; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif;">	
-                                        <a href="https://www.creasi.co.id/jobboard/1515/creative-graphic-designer?ref=jobboard" target="_blank" style="font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; line-height: 48px; font-size: 16px; color:#D02027; text-decoration:none;" data-color="Headlines" data-size="Headlines">Creative Graphic Designer</a>
-                                        <p style="color: #a1a3a6; font-size:  12px;" data-color="Paragraphs" data-size="Paragraphs" data-max="28">Sosok Inspiratif - Jakarta Selatan</p>
+                                        <a href="https://www.creasi.co.id/jobboard/1500/ui-ux-designer-web-designer-mobile-designer-front-end-developer?ref=jobboard" target="_blank" style="font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; line-height: 48px; font-size: 16px; color:#D02027; text-decoration:none;" data-color="Headlines" data-size="Headlines">UI UX Designer / Web Designer / Mobile Designer / Front-End Developer</a>
+                                        <p style="color: #a1a3a6; font-size:  12px;" data-color="Paragraphs" data-size="Paragraphs" data-max="28">Velo Teknologi - Bandung</p>
                                     </td>
                                     <td width="150" style="display:inline-block; float:right; padding: 20px 0px;">
-                                        <a href="https://www.creasi.co.id/jobboard/1515/creative-graphic-designer?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; float:right; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                        <a href="https://www.creasi.co.id/jobboard/1500/ui-ux-designer-web-designer-mobile-designer-front-end-developer?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; float:right; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -159,11 +159,11 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
                                 <!--Jobs Item 2-->
                                 <tr style="padding:20px 40px; display:block;">
                                     <td width="350" style="display:inline-block; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif;">	
-                                        <a href="https://www.creasi.co.id/jobboard/1491/copywriter?ref=jobboard" target="_blank" style="font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; line-height: 48px; font-size: 16px; color:#D02027; text-decoration:none;" data-color="Headlines" data-size="Headlines">Copywriter</a>
-                                        <p style="color: #a1a3a6; font-size: 12px;" data-color="Paragraphs" data-size="Paragraphs" data-max="28">J. Walter Thompson Jakarta - Jakarta Pusat</p>
+                                        <a href="https://www.creasi.co.id/jobboard/1510/associate-editor-graphic-designer?ref=jobboard" target="_blank" style="font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; line-height: 48px; font-size: 16px; color:#D02027; text-decoration:none;" data-color="Headlines" data-size="Headlines">Associate Editor / Graphic Designer</a>
+                                        <p style="color: #a1a3a6; font-size: 12px;" data-color="Paragraphs" data-size="Paragraphs" data-max="28">IML - Surabaya</p>
                                     </td>
                                     <td width="150" style="display:inline-block; float:right; padding: 20px 0px;">
-                                        <a href="https://www.creasi.co.id/jobboard/1491/copywriter?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; float:right; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                        <a href="https://www.creasi.co.id/jobboard/1510/associate-editor-graphic-designer?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; float:right; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -173,11 +173,11 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
                                 <!--Jobs Item 3-->
                                 <tr style="padding:20px 40px; display:block;">
                                     <td width="350" style="display:inline-block; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif;">	
-                                        <a href="https://www.creasi.co.id/jobboard/1509/branding-social-media-specialist?ref=jobboard" target="_blank" style="font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; line-height: 48px; font-size: 16px; color:#D02027; text-decoration:none;" data-color="Headlines" data-size="Headlines">Branding & Social Media Specialist</a>
-                                        <p style="color: #a1a3a6; font-size: 12px;" data-color="Paragraphs" data-size="Paragraphs" data-max="28">buttonscarves - Depok</p>
+                                        <a href="https://www.creasi.co.id/jobboard/1491/copywriter?ref=jobboard" target="_blank" style="font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; line-height: 48px; font-size: 16px; color:#D02027; text-decoration:none;" data-color="Headlines" data-size="Headlines">Copywriter</a>
+                                        <p style="color: #a1a3a6; font-size: 12px;" data-color="Paragraphs" data-size="Paragraphs" data-max="28">J. Walter Thompson Jakarta - Jakarta Pusat</p>
                                     </td>
                                     <td width="150" style="display:inline-block; float:right; padding: 20px 0px;">
-                                        <a href="https://www.creasi.co.id/jobboard/1509/branding-social-media-specialist?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; float:right; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                        <a href="https://www.creasi.co.id/jobboard/1491/copywriter?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; float:right; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -201,11 +201,11 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
                                 <!--Jobs Item 5-->
                                 <tr style="padding:20px 40px; display:block;">
                                     <td width="350" style="display:inline-block; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif;">	
-                                        <a href="https://www.creasi.co.id/jobboard/1510/associate-editor-graphic-designer?ref=jobboard" target="_blank" style="font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; line-height: 48px; font-size: 16px; color:#D02027; text-decoration:none;" data-color="Headlines" data-size="Headlines">Associate Editor / Graphic Designer</a>
-                                        <p style="color: #a1a3a6; font-size: 12px;" data-color="Paragraphs" data-size="Paragraphs" data-max="28">IML - Surabaya</p>
+                                        <a href="https://www.creasi.co.id/jobboard/1493/brand-executive-liasion?ref=jobboard" target="_blank" style="font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; line-height: 48px; font-size: 16px; color:#D02027; text-decoration:none;" data-color="Headlines" data-size="Headlines">Brand Executive Liasion</a>
+                                        <p style="color: #a1a3a6; font-size: 12px;" data-color="Paragraphs" data-size="Paragraphs" data-max="28">Pineapple Preschool - Medan</p>
                                     </td>
                                     <td width="150" style="display:inline-block; float:right; padding: 20px 0px;">
-                                        <a href="https://www.creasi.co.id/jobboard/1510/associate-editor-graphic-designer?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; float:right; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                        <a href="https://www.creasi.co.id/jobboard/1493/brand-executive-liasion?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; float:right; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
                                     </td>
                                 </tr>
                                 <tr>
