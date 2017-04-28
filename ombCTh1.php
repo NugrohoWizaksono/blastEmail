@@ -122,7 +122,8 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
 									<td>
 										<h2 align="center" style="font-weight:700 !important; font-size:27px !important; color:#222 !important; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; letter-spacing: 2px !important; line-height:1.5 !important; padding-bottom: 15px; !important">
-										 3 hari lagi <span style="color:#D02027">Creasi Online Magang Berhadiah</span> untuk mahasiswa DKV & Ilmu komunikasi akan dimulai
+										 Apply Lowongan Magang sekarang juga karena 
+                                         <span style="color:#D02027">Creasi Online Magang Berhadiah</span> sudah dimulai hari ini!!
 										</h2>
 									</td>
 								</tr>
@@ -149,9 +150,10 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 										<p style="font-size:14px; line-height:1.5;">
                                             Hi Creative Talent,
                                             <br /><br />
-                                            Tiga hari lagi OMB (Online Magang Berhadiah) akan segera dimulai loh!! <br />
-                                            Untuk kamu mahasiswa/I jurusan DKV dan Ilmu Komunikasi yang sedang mencari 
-                                            tempat magang pastikan kamu sudah upload CV & Portfolio keren kamu di creasi.co.id yah.
+                                            Hari ini OMB sudah dimulai loh.. <br />
+                                            Untuk kamu mahasiswa/I jurusan DKV dan Ilmu Komunikasi yang sedang mencari tempat magang
+                                            ayoo segera apply lowongan magang dari perusahaan-perusahaan keren yang sudah berpartisipasi di OMB.
+
                                             <br /><br />
                                                 <!-- <br>
 											<br>
@@ -177,9 +179,10 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr align="left" style="padding:20px 40px 0px 40px; display:block;">
 									<td>										
 										<p style="font-size:14px; line-height:1.5;">
-											Selama event OMB ini kamu juga berkesempatan memenangkan <b>hadiah</b> voucher dengan total nilai lebih dari <b>Rp 4.000.000,-.</b>
+											Eits… jangan lupa loh.. kamu juga berkesempatan memenangkan hadiah voucher dengan total nilai lebih dari Rp 4.000.000,-. 
+                                            Cari tahu cara memenangkan hadiah nya <a href="http://omb.creasi.co.id" target="_blank">disini</a>
                                             <br /><br />
-                                            Segera baca informasi lebih lanjut di:
+                                            Tunggu apa lagi?? Ayoo apply lowongannya sekarang juga.
 										</p>
 									</td>
 								</tr>
@@ -196,7 +199,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 							<table width="600" border="0" cellspacing="0" bgcolor="#f9f9f9" cellpadding="0" align="center" class="scale" style="">
 								<tr align="center" style="padding:20px 40px 30px 40px; display:block;">
 									<td style="color: #a1a3a6; font-size: 14px;">
-										<a href="http://omb.creasi.co.id" target="_blank" style="width:auto; border-radius:5px; font-size:16px; font-weight:700; float:right; padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;">OMB</a>
+										<a href="https://creasi.co.id" target="_blank" style="width:auto; border-radius:5px; font-size:16px; font-weight:700; float:right; padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;">Lowongan Magang</a>
 									</td>
 								</tr>
 							</table>
