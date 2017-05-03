@@ -58,7 +58,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 	img[class=reset] { display: inline!important; }
 	img[class=blockset] { display: block!important; text-align: center!important; padding-bottom: 20px!important; }
 
-	p[class=lhreset] { line-height: 30px!important; }
+	p[class=lhreset] { line-height: 30px!important; background-color:  }
 }
 
 </style>
