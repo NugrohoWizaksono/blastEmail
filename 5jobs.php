@@ -121,7 +121,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
                                         </tr>
                                         <tr>
                                                 <td align="center" style="font-weight:700; font-size:18px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif;">
-                                                        <h2 align="center" style="font-weight:700 !important; font-size:22px !important; color:#222 !important; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; letter-spacing: 2px !important; line-height:1.5 !important; padding-bottom: 15px; !important">5 lowongan kerja pilihan <span style="color:#D02027; ">Creasi</span> minggu ini.</h2>	
+                                                        <h2 align="center" style="font-weight:700 !important; font-size:22px !important; color:#222 !important; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; letter-spacing: 2px !important; line-height:1.5 !important; padding-bottom: 15px; !important"></h2>	
                                                 </td>
                                         </tr>
                                         <tr>

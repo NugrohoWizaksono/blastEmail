@@ -112,7 +112,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
 									<td>
                                         <div class="" style="padding-top: 30px;">
-                                            <h2 style="text-align:center;">Apply Lowongan Magang sekarang juga karena <span style="color:#d02027"> <br />Creasi Online Magang Berhadiah</span> sudah dimulai!!</h2>
+                                            <h2 style="text-align:center;">5 lowongan kerja magang pilihan <span style="color:#D02027; ">Creasi</span> minggu ini.</h2>
                                         </div>
 									</td>
 								</tr>
@@ -131,79 +131,117 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 			<!-- Lowongan -->
                  <table width="100%" border="0" cellspacing="0" cellpadding="0" data-module="Logos" >
                     <tr>
-                        <td bgcolor="#ECEFF3">
+                        <td>
                             <table style="background-color: white" width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" align="center" class="scale">
                                 <!--Jobs Item 1-->
-                                <tr style="padding:20px 40px; display:block;">
-                                    <td width="350" style="display:inline-block; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif;">	
-                                        <div class=""style="font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; line-height: 48px; font-size: 16px; color:#D02027; text-decoration:none;">
-                                            <a href="https://www.creasi.co.id/jobboard/1500/ui-ux-designer-web-designer-mobile-designer-front-end-developer?ref=jobboard" target="_blank"  data-color="Headlines" data-size="Headlines">UI UX Designer / Web Designer / Mobile Designer / Front-End Developer</a>
+                                <tr style="">
+                                    <td width="350" style="">	
+                                        <div class=""style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
+                                            <a href="https://www.creasi.co.id/jobboard/1614/motion-graphic-designer-internship-2-positions-available?ref=jobboard" target="_blank"  data-color="Headlines" data-size="Headlines" style=" color:#D02027; text-decoration:none; line-height: 48px;">
+                                                Motion Graphic Designer (Internship - 2 Positions Available)
+                                            </a>
+                                            <div  style="color: #a1a3a6; font-size:12px;">
+                                                <p data-color="Paragraphs" data-size="Paragraphs" data-max="28">WIR Global - Jakarta Barat</p>
+                                            </div>
                                         </div>
-                                        <p style="color: #a1a3a6; font-size:  12px;" data-color="Paragraphs" data-size="Paragraphs" data-max="28">Velo Teknologi - Bandung</p>
                                     </td>
-                                    <td width="150" style="display:inline-block; float:right; padding: 20px 0px;">
-                                        <a href="https://www.creasi.co.id/jobboard/1500/ui-ux-designer-web-designer-mobile-designer-front-end-developer?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; float:right; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                    <td width="150">
+                                        <div class="" style="padding: 20px 0px; width: 150px; text-align: center;">
+                                            <a href="https://www.creasi.co.id/jobboard/1614/motion-graphic-designer-internship-2-positions-available?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                        </div>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td><center><div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;">&nbsp;</div></center></td>
+                                    <td colspan="2"><center><div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;">&nbsp;</div></center></td>
                                 </tr>
 
                                 <!--Jobs Item 2-->
-                                <tr style="padding:20px 40px; display:block;">
-                                    <td width="350" style="display:inline-block; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif;">	
-                                        <a href="https://www.creasi.co.id/jobboard/1510/associate-editor-graphic-designer?ref=jobboard" target="_blank" style="font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; line-height: 48px; font-size: 16px; color:#D02027; text-decoration:none;" data-color="Headlines" data-size="Headlines">Associate Editor / Graphic Designer</a>
-                                        <p style="color: #a1a3a6; font-size: 12px;" data-color="Paragraphs" data-size="Paragraphs" data-max="28">IML - Surabaya</p>
+                                <tr style="">
+                                    <td width="350" style="">	
+                                        <div class=""style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
+                                            <a href="https://www.creasi.co.id/jobboard/1610/uiux-designer-for-mindstores-internship-2-positions-available?ref=jobboard" target="_blank"  data-color="Headlines" data-size="Headlines" style=" color:#D02027; text-decoration:none; line-height: 48px;">
+                                                UI/UX Designer for Mindstores (Internship - 2 Positions Available)
+                                            </a>
+                                            <div  style="color: #a1a3a6; font-size:12px;">
+                                                <p data-color="Paragraphs" data-size="Paragraphs" data-max="28">WIR Global - Jakarta Barat</p>
+                                            </div>
+                                        </div>
                                     </td>
-                                    <td width="150" style="display:inline-block; float:right; padding: 20px 0px;">
-                                        <a href="https://www.creasi.co.id/jobboard/1510/associate-editor-graphic-designer?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; float:right; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                    <td width="150">
+                                        <div class="" style="padding: 20px 0px; width: 150px; text-align: center;">
+                                            <a href="https://www.creasi.co.id/jobboard/1610/uiux-designer-for-mindstores-internship-2-positions-available?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                        </div>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td height="2" style="background-color:#ECEFF3; width:520px; margin:auto; display:block;"></td>
+                                    <td colspan="2"><center><div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;">&nbsp;</div></center></td>
                                 </tr>
 
                                 <!--Jobs Item 3-->
-                                <tr style="padding:20px 40px; display:block;">
-                                    <td width="350" style="display:inline-block; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif;">	
-                                        <a href="https://www.creasi.co.id/jobboard/1491/copywriter?ref=jobboard" target="_blank" style="font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; line-height: 48px; font-size: 16px; color:#D02027; text-decoration:none;" data-color="Headlines" data-size="Headlines">Copywriter</a>
-                                        <p style="color: #a1a3a6; font-size: 12px;" data-color="Paragraphs" data-size="Paragraphs" data-max="28">J. Walter Thompson Jakarta - Jakarta Pusat</p>
+                                <tr style="">
+                                    <td width="350" style="">	
+                                        <div class=""style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
+                                            <a href="https://www.creasi.co.id/jobboard/1575/graphic-design-social-media-internship-1-position-available?ref=jobboard" target="_blank"  data-color="Headlines" data-size="Headlines" style=" color:#D02027; text-decoration:none; line-height: 48px;">
+                                                Graphic Design & Social Media (Internship - 1 Position Available)
+                                            </a>
+                                            <div  style="color: #a1a3a6; font-size:12px;">
+                                                <p data-color="Paragraphs" data-size="Paragraphs" data-max="28">PT Tripvisto Nusantara Jaya - Jakarta Selatan</p>
+                                            </div>
+                                        </div>
                                     </td>
-                                    <td width="150" style="display:inline-block; float:right; padding: 20px 0px;">
-                                        <a href="https://www.creasi.co.id/jobboard/1491/copywriter?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; float:right; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                    <td width="150">
+                                        <div class="" style="padding: 20px 0px; width: 150px; text-align: center;">
+                                            <a href="https://www.creasi.co.id/jobboard/1575/graphic-design-social-media-internship-1-position-available?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                        </div>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td height="2" style="background-color:#ECEFF3; width:520px; margin:auto; display:block;"></td>
+                                    <td colspan="2"><center><div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;">&nbsp;</div></center></td>
                                 </tr>
 
                                 <!--Jobs Item 4-->
-                                <tr style="padding:20px 40px; display:block;">
-                                    <td width="350" style="display:inline-block; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif;">	
-                                        <a href="https://www.creasi.co.id/jobboard/1495/digital-strategist-social-media?ref=jobboard" target="_blank" style="font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; line-height: 48px; font-size: 16px; color:#D02027; text-decoration:none;" data-color="Headlines" data-size="Headlines">Digital Strategist & Social Media</a>
-                                        <p style="color: #a1a3a6; font-size: 12px;" data-color="Paragraphs" data-size="Paragraphs" data-max="28">PT Herco Digital Indonesia - Semarang</p>
+                                <tr style="">
+                                    <td width="350" style="">	
+                                        <div class=""style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
+                                            <a href="https://www.creasi.co.id/jobboard/1582/account-executive-internship-2-positions-available?ref=jobboard" target="_blank"  data-color="Headlines" data-size="Headlines" style=" color:#D02027; text-decoration:none; line-height: 48px;">
+                                                Account Executive (Internship - 2 Positions Available)</a>
+                                            <div  style="color: #a1a3a6; font-size:12px;">
+                                                <p data-color="Paragraphs" data-size="Paragraphs" data-max="28">Upnormalspingfans - Jakarta Pusat</p>
+                                            </div>
+                                        </div>
                                     </td>
-                                    <td width="150" style="display:inline-block; float:right; padding: 20px 0px;">
-                                        <a href="https://www.creasi.co.id/jobboard/1495/digital-strategist-social-media?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; float:right; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                    <td width="150">
+                                        <div class="" style="padding: 20px 0px; width: 150px; text-align: center;">
+                                            <a href="https://www.creasi.co.id/jobboard/1582/account-executive-internship-2-positions-available?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                        </div>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td height="2" style="background-color:#ECEFF3; width:520px; margin:auto; display:block;"></td>
+                                    <td colspan="2"><center><div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;">&nbsp;</div></center></td>
                                 </tr>
 
                                 <!--Jobs Item 5-->
-                                <tr style="padding:20px 40px; display:block;">
-                                    <td width="350" style="display:inline-block; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif;">	
-                                        <a href="https://www.creasi.co.id/jobboard/1493/brand-executive-liasion?ref=jobboard" target="_blank" style="font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; line-height: 48px; font-size: 16px; color:#D02027; text-decoration:none;" data-color="Headlines" data-size="Headlines">Brand Executive Liasion</a>
-                                        <p style="color: #a1a3a6; font-size: 12px;" data-color="Paragraphs" data-size="Paragraphs" data-max="28">Pineapple Preschool - Medan</p>
+                                <tr style="">
+                                    <td width="350" style="">	
+                                        <div class=""style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
+                                            <a href="https://www.creasi.co.id/jobboard/1583/graphic-design-internship-2-positions-available?ref=jobboard" target="_blank"  data-color="Headlines" data-size="Headlines" style=" color:#D02027; text-decoration:none; line-height: 48px;">
+                                                Graphic Design (Internship - 2 Positions Available)
+                                            </a>
+                                            <div  style="color: #a1a3a6; font-size:12px;">
+                                                <p data-color="Paragraphs" data-size="Paragraphs" data-max="28">Upnormalspingfans - Jakarta Pusat</p>
+                                            </div>
+                                        </div>
                                     </td>
-                                    <td width="150" style="display:inline-block; float:right; padding: 20px 0px;">
-                                        <a href="https://www.creasi.co.id/jobboard/1493/brand-executive-liasion?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; float:right; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                    <td width="150">
+                                        <div class="" style="padding: 20px 0px; width: 150px; text-align: center;">
+                                            <a href="https://www.creasi.co.id/jobboard/1583/graphic-design-internship-2-positions-available?ref=jobboard" target="_blank" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;">Apply Now</a>
+                                        </div>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td height="2" style="background-color:#ECEFF3; width:520px; margin:auto; display:block;"></td>
+                                    <td colspan="2"><center><div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;">&nbsp;</div></center></td>
                                 </tr>
+                                
                             </table>
                         </td>
                     </tr>
@@ -215,12 +253,10 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
                                         <table style="background-color: white;" width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" align="center" class="scale">
                                                 <tr style="display:block;">
                                                         <td>
-                                                            <div class="" style="text-align: center; color: #a1a3a6; font-size: 14px; padding:20px 40px 0px 40px; ">
-                                                                <p>
-                                                                    <span style="line-height:2;">
-                                                                        Ayo Jangan lewatkan kesempatan kamu untuk bekerja di perusahaan-perusahaan bagus yang kamu inginkan karena tanggal job closingnya semakin mendekat loh. Tunggu apa lagi?
-                                                                    </span>
-                                                                </p>
+                                                            <div class="" style="line-height: 2;text-align: center; color: #a1a3a6; font-size: 14px; padding:20px 40px 0px 40px; ">
+                                                                
+                                                                Ayo Jangan lewatkan kesempatan kamu untuk bekerja di perusahaan-perusahaan bagus yang kamu inginkan karena tanggal job closingnya semakin mendekat loh. Tunggu apa lagi?
+                                                                
                                                             </div>    
                                                         </td>
                                                 </tr>
@@ -236,7 +272,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
                                         <table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" align="center" class="scale" style="">
                                                 <tr align="center" style="display:block;">
                                                         <td>
-                                                            <div class="" style="color: #a1a3a6; font-size: 14px; text-align: center; padding:20px 40px; ">
+                                                            <div class="" style="color: #a1a3a6; font-size: 14px; text-align: center; padding:20px 40px;  background-color: white;">
                                                                 <a href="https://www.creasi.co.id/jobboard" target="_blank" style="width:350px; border-radius:5px; font-size:16px; font-weight:700;padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;">Yuk kita ke Job Board!</a>
                                                             </div>
                                                         </td>
