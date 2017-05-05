@@ -112,7 +112,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
 									<td>
                                         <div class="" style="padding-top: 30px;">
-                                            <h2 style="text-align:center;">Apply Lowongan Magang sekarang juga karena <span style="color:#d02027"> <br />Creasi Online Magang Berhadiah</span> sudah dimulai!!</h2>
+                                            <h2 style="text-align:center;">Apply Lowongan Magang sekarang juga karena <span style="color:#d02027"> <br />Creasi OMB (Online Magang Berhadiah)</span> <br />sudah dimulai!!</h2>
                                         </div>
 									</td>
 								</tr>
@@ -141,7 +141,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
                                         <div class="" style="padding: 0 40px; font-size: 14px;">
                                             <p>Hi Creative Talent,<br />
                                             <br />
-                                            Hari ini OMB sudah dimulai loh..<br />
+                                            Sudah ikutan OMB belum?<br />
                                             Untuk kamu mahasiswa/I jurusan DKV dan Ilmu Komunikasi yang sedang mencari tempat magang ayoo segera apply lowongan magang dari perusahaan-perusahaan keren yang sudah berpartisipasi di OMB.<br />
                                             <br />
                                             <!-- <br>
@@ -194,7 +194,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr align="center">
                                     <td>
                                         <div class="" style="">
-                                            <div class="" style="text-align: center"><a href="https://creasi.co.id/jobboard" style="width:auto; border-radius:5px; font-size:16px; font-weight:700; padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;" target="_blank">Lowongan Magang</a></div>
+                                            <div class="" style="text-align: center"><a href="https://creasi.co.id/jobboard" style="width:auto; border-radius:5px; font-size:16px; font-weight:700; padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;" target="_blank">Apply Now</a></div>
                                         </div>
                                     </td>
 								</tr>
