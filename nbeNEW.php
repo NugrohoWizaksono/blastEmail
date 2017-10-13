@@ -113,7 +113,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 									<td>
                                         <div class="" style="padding-top: 30px;">
                                             <h2 style="text-align:center;">
-                                                <span style="color:#D02027">OMB Diperpanjang</span> - 14 hari <br />untuk mencari tempat magang
+                                                <span style="color:#D02027;">Nulis Biar Eksis</span><br> Periode Juni 2017
                                             </h2>
                                         </div>
 									</td>
@@ -141,18 +141,18 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
                                     <td>
                                         <div class="" style="padding: 0 40px; font-size: 14px;">
-                                            <p>Hi Creative Talent,<br />
+                                            <p>Hi Teman Kreatif..<br />
                                             <br />
-                                            Ada kabar baik di awal bulan Juni ini loh… mau tahu apa kabar baiknya??<br /><br /><br />
-                                            <!-- <br>
-                                                    <br>
-                                                    Buat kamu yang suka nulis, hobi di bidang kreatif, dan suka nge-share pengalaman kamu untuk orang lain, ayo submit tulisan kamu di program #NulisBiarEksis periode November 2016! Artikel yang terpilih akan dipublikasikan di website Creasi dan kamu bisa ngedapetin fee Rp. 150.000/artikel (New prize! Yayy!). --></p>
-                                            </td>
-                                            
-                                        </div>
+                                            Bulan   Agustus sudah datang, itu artinya #NulisBiarEksis periode Agustus 2017 siap dimulai!<br /><br /><br />
+                                            Kalau kamu suka nulis, hobi di bidang kreatif, dan suka nge-share pengalamanmu untuk orang lain, ayo submit tulisan kamu! 
+                                            Artikel yang terpilih akan dipublikasikan di website Creasi dan kamu bisa ngedapetin fee Rp. 150.000/artikel. <br /><br />
+                                        
+                                    </td>
 								</tr>
 								<tr>
-									<td style="text-align:center; width:100%"><img alt="creasi-poster" src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/guabB.jpg" style="height:250px; width:550px" /></td>
+									<td style="text-align:center; width:100%">
+                                        <img alt="creasi-poster" src="https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/20621084_1434046083350529_6357524261844686213_n.jpg?oh=a839f781e402d46ea4975974c9f2852a&oe=5A3639E4" style="width:550px" />
+                                    </td>
 								</tr>
 							</tbody>
 						</table>
@@ -171,9 +171,23 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
                                     <td>
                                         <div class="" style="padding: 20px 40px 40px; font-size: 14px;">
-                                            <p>Yapp… OMB di perpanjang sampai 14 Juni 2017. <br /><br />
-                                            Untuk kalian yang belum ikutan OMB ayoo segera apply lowongan kerjan magang sebanyak mungkin!!
-                                            Semakin banyak kamu apply, semakin besar juga peluang kamu untuk mendapatkan tempat magang. <br /></p>
+                                            <p>
+                                                Untuk Tema khusus bulan Agustus ini adalah:</p>
+                                                <ul>
+                                                    <li style="margin-left:30px;font-size:14px; margin-bottom:5px;">1. Macam-Macam Karakter Teman Sekantor</li>
+                                                    <li style="margin-left:30px;font-size:14px; margin-bottom:5px;">2. Tips Tetap Semangat di Tanggal Tua</li>
+                                                    <li style="margin-left:30px;font-size:14px; margin-bottom:5px;">3. Tips Cepat Cari Ide Saat Deadline</li>
+                                                </ul>
+                                                <br>
+                                                <p align="left" style="font-size:14px; line-height:1.5;">
+                                                Setiap tulisan berisi antara <span style="color:#D02027;">500-700 kata</span> dan harus memasukan 3 kata kunci berikut:<span style="color:#D02027;"> &#8220;Kerja&#8221;, &#8220;Creasi (Creasi.co.id)&#8221;</span> dan <span style="color:#D02027;">&#8220;kreatif&#8221;</span>.
+                                                <br>
+                                                 Setiap tulisan yang dipublikasikan mendapatkan hadiah uang <span style="color:#D02027;">Rp150.000 </span>lho!
+                                                <br>
+                                                <br>
+                                                Submit tulisan kamu ke <span style="color:#D02027;">info@creasi.co.id</span> ya!<br>
+                                                Sebelum mulai menulis <u>pastikan</u> kamu membaca ketentuan umum di bawah ini:
+                                            </p>
                                         </div>
 									</td>
 								</tr>
@@ -194,7 +208,9 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr align="center">
                                     <td>
                                         <div class="" style="">
-                                            <div class="" style="text-align: center"><a href="https://creasi.co.id/jobboard" style="width:auto; border-radius:5px; font-size:16px; font-weight:700; padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;" target="_blank">Apply Now</a></div>
+                                            <div class="" style="text-align: center">
+                                                <a href="https://www.facebook.com/notes/creasi/nulisbiareksis-agustus-2017/1434041700017634/" style="width:auto; border-radius:5px; font-size:16px; font-weight:700; padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;" target="_blank">Ketentuan Umum</a>
+                                            </div>
                                         </div>
                                     </td>
 								</tr>

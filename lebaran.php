@@ -112,8 +112,8 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
 									<td>
                                         <div class="" style="padding-top: 30px;">
-                                            <h2 style="text-align:center;">
-                                                <span style="color:#D02027">OMB Diperpanjang</span> - 14 hari <br />untuk mencari tempat magang
+                                            <h2 style="text-align:center; font-size: 27px;">
+                                                 Selamat Hari Raya <br><span style="color:#D02027;">Idul FItri 1438H</span> 
                                             </h2>
                                         </div>
 									</td>
@@ -138,21 +138,21 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 						<td>
 						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="width:600px; background-color: white;">
 							<tbody>
-								<tr>
+<!--								<tr>
                                     <td>
                                         <div class="" style="padding: 0 40px; font-size: 14px;">
-                                            <p>Hi Creative Talent,<br />
+                                            <p>Hi Teman Kreatif..<br />
                                             <br />
-                                            Ada kabar baik di awal bulan Juni ini loh… mau tahu apa kabar baiknya??<br /><br /><br />
-                                            <!-- <br>
-                                                    <br>
-                                                    Buat kamu yang suka nulis, hobi di bidang kreatif, dan suka nge-share pengalaman kamu untuk orang lain, ayo submit tulisan kamu di program #NulisBiarEksis periode November 2016! Artikel yang terpilih akan dipublikasikan di website Creasi dan kamu bisa ngedapetin fee Rp. 150.000/artikel (New prize! Yayy!). --></p>
-                                            </td>
-                                            
-                                        </div>
-								</tr>
+                                            #CreasiNgomikAsik balik lagi, nih. Hayooo, udah  
+                                            siap buat ikutan lagi belum nih? Yuk panasin dulu 
+                                            mesinnya biar kamu makin semangat buat ikutan kompetisinya.<br /><br />
+                                        
+                                    </td>
+								</tr>-->
 								<tr>
-									<td style="text-align:center; width:100%"><img alt="creasi-poster" src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/guabB.jpg" style="height:250px; width:550px" /></td>
+									<td style="text-align:center; width:100%">
+                                        <img alt="creasi-poster" src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/EngRz.jpg" style="width:550px" />
+                                    </td>
 								</tr>
 							</tbody>
 						</table>
@@ -170,10 +170,20 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 							<tbody>
 								<tr>
                                     <td>
-                                        <div class="" style="padding: 20px 40px 40px; font-size: 14px;">
-                                            <p>Yapp… OMB di perpanjang sampai 14 Juni 2017. <br /><br />
-                                            Untuk kalian yang belum ikutan OMB ayoo segera apply lowongan kerjan magang sebanyak mungkin!!
-                                            Semakin banyak kamu apply, semakin besar juga peluang kamu untuk mendapatkan tempat magang. <br /></p>
+                                        <div class="" style="padding: 20px 40px 40px; font-size: 14px; text-align: center;">
+                                            <p>
+                                            Di hari yang penuh kebaikan ini, izinkan kami mengucapkan: <br />
+                                            <b>Selamat Hari Raya Idul Fitri 1438H <br />
+                                            Mohon Maaf Lahir & Batin </b>
+                                            <br /><br />    
+                                            Mungkin posisi yang tidak 100% klop dengan minat kamu. <br />
+                                            Mungkin lokasi yang jauh mengharuskan kamu berangkat pagi-pagi. <br />
+                                            Mungkin gaji yang ditawarkan belum setinggi ekspektasi kamu. <br />
+                                            Memang tidak ada lowongan kerja yang sempurna, pasti ada kekurangan. <br />
+                                            <br /><br />
+                                            Begitu juga dengan Creasi yang tentunya masih ada kekurangan dalam membantu Teman-teman Kreatif menemukan pekerjaan kreatif yang paling tepat. Walaupun begitu, Creasi akan terus berusaha meningkatkan kinerja untuk memberikan yang terbaik bagi kalian semua.  
+
+                                            </p>
                                         </div>
 									</td>
 								</tr>
@@ -192,11 +202,13 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="width:600px; background-color: white;">
 							<tbody>
 								<tr align="center">
-                                    <td>
+<!--                                    <td>
                                         <div class="" style="">
-                                            <div class="" style="text-align: center"><a href="https://creasi.co.id/jobboard" style="width:auto; border-radius:5px; font-size:16px; font-weight:700; padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;" target="_blank">Apply Now</a></div>
+                                            <div class="" style="text-align: center">
+                                                <a href="http://omb.creasi.co.id/" style="width:auto; border-radius:5px; font-size:16px; font-weight:700; padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;" target="_blank">Ketentuan Umum</a>
+                                            </div>
                                         </div>
-                                    </td>
+                                    </td>-->
 								</tr>
 							</tbody>
 						</table>
@@ -213,9 +225,9 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="padding-bottom:50px; width:600px; background-color: white;">
 							<tbody>
 								<tr>
-                                    <td>
+<!--                                    <td>
                                         <div class="" style="padding: 60px 70px 30px; color: grey; font-size: 14px; text-align: center;"><p align="center">Jika ada pertanyaan, jangan ragu untuk menghubungi kami <a href="http://creasi.co.id/contactus" style="color:#D02027; text-decoration:none;" target="_blank">di sini</a> atau chat di website kami.</p></div>
-									</td>
+									</td>-->
 								</tr>
 							</tbody>
 						</table>
