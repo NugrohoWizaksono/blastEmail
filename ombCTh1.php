@@ -122,8 +122,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
 									<td>
 										<h2 align="center" style="font-weight:700 !important; font-size:27px !important; color:#222 !important; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; letter-spacing: 2px !important; line-height:1.5 !important; padding-bottom: 15px; !important">
-										 Apply Lowongan Magang sekarang juga karena 
-                                         <span style="color:#D02027">Creasi Online Magang Berhadiah</span> sudah dimulai hari ini!!
+                                            <span style="color:#D02027">14 hari</span> yang berharga untuk kamu yang sedang mencari tempat magang
 										</h2>
 									</td>
 								</tr>
@@ -150,9 +149,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 										<p style="font-size:14px; line-height:1.5;">
                                             Hi Creative Talent,
                                             <br /><br />
-                                            Hari ini OMB sudah dimulai loh.. <br />
-                                            Untuk kamu mahasiswa/I jurusan DKV dan Ilmu Komunikasi yang sedang mencari tempat magang
-                                            ayoo segera apply lowongan magang dari perusahaan-perusahaan keren yang sudah berpartisipasi di OMB.
+                                           Ada kabar baik di awal bulan Juni ini loh… mau tahu apa kabar baiknya??
 
                                             <br /><br />
                                                 <!-- <br>
@@ -163,7 +160,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								</tr>
 								<tr style="display:block; margin-top:20px;">
 									<td style="width:100%; display:block; margin:auto; text-align:center;">
-										<img src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/1KnwSkM976df3pVWFCG6.jpg" width="550" height="250" alt="creasi-poster">
+										<img src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/guabB.jpg" width="550" height="250" alt="creasi-poster">
 									</td>
 								</tr>
 							</table>
@@ -179,10 +176,9 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr align="left" style="padding:20px 40px 0px 40px; display:block;">
 									<td>										
 										<p style="font-size:14px; line-height:1.5;">
-											Eits… jangan lupa loh.. kamu juga berkesempatan memenangkan hadiah voucher dengan total nilai lebih dari Rp 4.000.000,-. 
-                                            Cari tahu cara memenangkan hadiah nya <a href="http://omb.creasi.co.id" target="_blank">disini</a>
-                                            <br /><br />
-                                            Tunggu apa lagi?? Ayoo apply lowongannya sekarang juga.
+											Yapp… OMB di perpanjang sampai 14 Juni 2017. <br />
+                                            Untuk kalian yang belum ikutan OMB ayoo segera apply lowongan kerjan magang sebanyak mungkin!!
+                                            Semakin banyak kamu apply, semakin besar juga peluang kamu untuk mendapatkan tempat magang. <br />
 										</p>
 									</td>
 								</tr>
@@ -199,7 +195,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 							<table width="600" border="0" cellspacing="0" bgcolor="#f9f9f9" cellpadding="0" align="center" class="scale" style="">
 								<tr align="center" style="padding:20px 40px 30px 40px; display:block;">
 									<td style="color: #a1a3a6; font-size: 14px;">
-										<a href="https://creasi.co.id" target="_blank" style="width:auto; border-radius:5px; font-size:16px; font-weight:700; float:right; padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;">Lowongan Magang</a>
+										<a href="https://creasi.co.id" target="_blank" style="width:auto; border-radius:5px; font-size:16px; font-weight:700; float:right; padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;">APPLY NOW</a>
 									</td>
 								</tr>
 							</table>

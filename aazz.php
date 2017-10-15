@@ -5,7 +5,7 @@
 @font-face{ font-family:"Proxima N W01 At Smbd"; src:url("http://www.stampready.net/css/Fonts/a9f16204-0ff0-4a9e-8a02-59d15bc5f66b.eot?#iefix"); src:url("http://www.stampready.net/css/Fonts/a9f16204-0ff0-4a9e-8a02-59d15bc5f66b.eot?#iefix") format("eot"),url("http://www.stampready.net/css/Fonts/6e328769-56a5-4de1-957e-575f839df36d.woff") format("woff"),url("http://www.stampready.net/css/Fonts/b5b3aa5a-a6be-4897-a646-09224334b90b.ttf") format("truetype"),url("http://www.stampready.net/css/Fonts/bcade2c9-7691-43e7-9c1b e6b2ac50ee97.svg#bcade2c9-7691-43e7-9c1b-e6b2ac50ee97") format("svg"); }
 
 /* Reset */
-* { margin-top: 0px; margin-bottom: 0px; padding: 0px; border: none; line-height: normal; outline: none; list-style: none; -webkit-text-size-adjust: none; -ms-text-size-adjust: none; }
+* { margin-top: 0px; margin-bottom: 0px; padding: 0px; border: none; line-height: normal; outline: none; list-style:; -webkit-text-size-adjust: none; -ms-text-size-adjust: none; }
 
 table { border-collapse: collapse !important; padding: 0px !important; border: none !important; border-bottom-width: 0px !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
 table td { border-collapse: collapse; }
@@ -113,16 +113,14 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 									<td>
                                         <div class="" style="padding-top: 30px;">
                                             <h2 style="text-align:center;">
-                                                <span style="color:#D02027">OMB Diperpanjang</span> - 14 hari <br />untuk mencari tempat magang
+                                                Ayo apply ratusan lowongan Kerja di <br />
+                                                <span style="color:#D02027;">Joker - Creasi Online Job Fair 2017</span>
                                             </h2>
                                         </div>
 									</td>
 								</tr>
 								<tr>
                                     <td><div class="" style="padding: 30px 0; text-align: center;"><img alt="creasi-dotted" src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/aPXCB7u4.png" /></div></td>
-								</tr>
-								<tr>
-									<td>&nbsp;</td>
 								</tr>
 							</tbody>
 						</table>
@@ -140,19 +138,17 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 							<tbody>
 								<tr>
                                     <td>
-                                        <div class="" style="padding: 0 40px; font-size: 14px;">
-                                            <p>Hi Creative Talent,<br />
+                                        <div class="" style="padding: 0 40px; font-size: 16px;">
+                                            <p>Hi Teman Kreatif,<br />
                                             <br />
-                                            Ada kabar baik di awal bulan Juni ini loh… mau tahu apa kabar baiknya??<br /><br /><br />
-                                            <!-- <br>
-                                                    <br>
-                                                    Buat kamu yang suka nulis, hobi di bidang kreatif, dan suka nge-share pengalaman kamu untuk orang lain, ayo submit tulisan kamu di program #NulisBiarEksis periode November 2016! Artikel yang terpilih akan dipublikasikan di website Creasi dan kamu bisa ngedapetin fee Rp. 150.000/artikel (New prize! Yayy!). --></p>
-                                            </td>
-                                            
-                                        </div>
+                                            Kamu lulusan DKV atau Ilmu Komunikasi? Lagi cari kerja? <br />
+                                            Ayo segera ikutan <span style="color:#D02027;">JOKER - Creasi Online Job Fair 2017.</span> <br /><br />
+                                    </td>
 								</tr>
 								<tr>
-									<td style="text-align:center; width:100%"><img alt="creasi-poster" src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/guabB.jpg" style="height:250px; width:550px" /></td>
+									<td style="text-align:center; width:100%">
+                                        <img alt="creasi-poster" src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/9HSGIzn.jpg" style="width:550px" />
+                                    </td>
 								</tr>
 							</tbody>
 						</table>
@@ -170,10 +166,18 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 							<tbody>
 								<tr>
                                     <td>
-                                        <div class="" style="padding: 20px 40px 40px; font-size: 14px;">
-                                            <p>Yapp… OMB di perpanjang sampai 14 Juni 2017. <br /><br />
-                                            Untuk kalian yang belum ikutan OMB ayoo segera apply lowongan kerjan magang sebanyak mungkin!!
-                                            Semakin banyak kamu apply, semakin besar juga peluang kamu untuk mendapatkan tempat magang. <br /></p>
+                                        <div class="" style="padding: 20px 40px; font-size: 16px;">
+                                            <p>
+                                                Caranya gampang banget:<br /><br />
+                                            <ul style="list-style: none;">
+                                                <li style="margin-left:30px;font-size:16px; margin-bottom:5px;">1. Log in ke akun kamu di <a href="https://www.creasi.co.id/login" target="_blank"><span style="color:#D02027 !important; text-decoration: none;">creasi</span></a>.</li>
+                                                    <li style="margin-left:30px;font-size:16px; margin-bottom:5px;">2. Pastikan kamu sudah upload/update CV + portfolio kamu.</li>
+                                                    <li style="margin-left:30px;font-size:16px; margin-bottom:5px;">3. Apply jobs yang tersedia di Job Board <a href="https://www.creasi.co.id/login" target="_blank"><span style="color:#D02027;">Creasi</span></a>.</li>
+                                                    <li style="margin-left:30px;font-size:16px; margin-bottom:5px;">3. Duduk manis sambil nunggu panggilan interview.</li>
+                                                </ul>
+                                            <br /><br />
+                                            Ayo buruan… dapetin kerja baru di event <span style="color:#D02027;">JOKER 2017!</span>
+                                            </p>
                                         </div>
 									</td>
 								</tr>
@@ -185,25 +189,22 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 			</table>
 			<!-- Button -->
 
-			<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
-				<tbody>
-					<tr>
-						<td>
-						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="width:600px; background-color: white;">
-							<tbody>
-								<tr align="center">
-                                    <td>
-                                        <div class="" style="">
-                                            <div class="" style="text-align: center"><a href="https://creasi.co.id/jobboard" style="width:auto; border-radius:5px; font-size:16px; font-weight:700; padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;" target="_blank">Apply Now</a></div>
-                                        </div>
-                                    </td>
-								</tr>
-							</tbody>
-						</table>
-						</td>
-					</tr>
-				</tbody>
-			</table>
+			<!-- Footer -->
+                 <table width="100%" border="0" cellspacing="0" cellpadding="0" data-module="Logos" >
+                        <tr>
+                            <td bgcolor="#ECEFF3">
+                                    <table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" align="center" class="scale" style="">
+                                            <tr align="center" style="display:;">
+                                                    <td>
+                                                        <div class="" style="color: #a1a3a6; font-size: 14px; text-align: center; padding:10px 40px 0px;  background-color: white;">
+                                                            <a href="https://www.creasi.co.id/jobboard" target="_blank" style="width:350px; border-radius:5px; font-size:16px; font-weight:700;padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;">Lihat lowongan Kerja</a>
+                                                        </div>
+                                                    </td>
+                                            </tr>
+                                    </table>
+                            </td>
+                        </tr>
+                </table>
 			<!-- Footer -->
 
 			<table border="0" cellpadding="0" cellspacing="0" style="width:100%">

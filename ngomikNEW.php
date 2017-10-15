@@ -112,8 +112,8 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
 									<td>
                                         <div class="" style="padding-top: 30px;">
-                                            <h2 style="text-align:center;">
-                                                <span style="color:#D02027">OMB Diperpanjang</span> - 14 hari <br />untuk mencari tempat magang
+                                            <h2 style="text-align:center; font-size: 27px;">
+                                                <span style="color:#D02027;">Ngomik Asik</span> <br> Periode Juni 2017
                                             </h2>
                                         </div>
 									</td>
@@ -141,18 +141,16 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
                                     <td>
                                         <div class="" style="padding: 0 40px; font-size: 14px;">
-                                            <p>Hi Creative Talent,<br />
+                                            <p>Hi Teman Kreatif..<br />
                                             <br />
-                                            Ada kabar baik di awal bulan Juni ini loh… mau tahu apa kabar baiknya??<br /><br /><br />
-                                            <!-- <br>
-                                                    <br>
-                                                    Buat kamu yang suka nulis, hobi di bidang kreatif, dan suka nge-share pengalaman kamu untuk orang lain, ayo submit tulisan kamu di program #NulisBiarEksis periode November 2016! Artikel yang terpilih akan dipublikasikan di website Creasi dan kamu bisa ngedapetin fee Rp. 150.000/artikel (New prize! Yayy!). --></p>
-                                            </td>
-                                            
-                                        </div>
+                                            Apa sih yang terlintas dipikiran Teman Kreatif jika mendengar kata ‘Boss’?<br /><br />
+                                            Hmm, ngomong-ngomong soal ‘boss’, tema #CreasiNgomikAsik periode Agustus 2017 adalah “Boss” <br /><br />
+                                    </td>
 								</tr>
 								<tr>
-									<td style="text-align:center; width:100%"><img alt="creasi-poster" src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/guabB.jpg" style="height:250px; width:550px" /></td>
+									<td style="text-align:center; width:100%">
+                                        <img alt="creasi-poster" src="https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/20604347_1431252210296583_1137861659570289817_n.jpg?oh=67f5d1e56a9eeefb8447ac20c4c43017&oe=5A1B5AFB" style="width:550px" />
+                                    </td>
 								</tr>
 							</tbody>
 						</table>
@@ -171,9 +169,25 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
                                     <td>
                                         <div class="" style="padding: 20px 40px 40px; font-size: 14px;">
-                                            <p>Yapp… OMB di perpanjang sampai 14 Juni 2017. <br /><br />
-                                            Untuk kalian yang belum ikutan OMB ayoo segera apply lowongan kerjan magang sebanyak mungkin!!
-                                            Semakin banyak kamu apply, semakin besar juga peluang kamu untuk mendapatkan tempat magang. <br /></p>
+                                            <p>
+                                                #CreasiNgomikAsik merupakan kompetisi komik bulanan, yang mempunyai tema berbeda tiap bulannya. 
+                                                Buat kamu yang suka bikin komik dan ingin menginspirasi orang lain seputar dunia kreatif, yuk ikutan! 
+                                            </p>
+                                            <br />
+                                            <p style="font-size:14px; line-height:1.5;">
+											Untuk Tema khusus bulan Agustus ini adalah: <b>“Boss”</b><br /><br />
+                                            </p>
+											<p style="font-size:14px; line-height:1.5;">
+											Cara ikutan: </p>
+                                            <ul style="list-style: none;">
+												<li style="margin-left:20px;font-size:14px; margin-bottom:5px;">1. Buatlah komik dengan template yang sudah disediakan. Download templatenya <a href="https://drive.google.com/file/d/0B3vyy7lDDgoLOWFPaXBEekItQVU/view?usp=sharing">di sini</a></li>
+												<li style="margin-left:20px;font-size:14px; margin-bottom:5px;">2. Upload karyamu via instagram dengan caption + hashtag #CreasiNgomikAsik + mention dan tag @creasi_id </li>
+												<li style="margin-left:20px;font-size:14px; margin-bottom:5px;">3. Periode upload bulan ini: sampai dengan 31 Agustus 2017 pukul 23.59 WIB</li>
+											</ul>
+											<br>
+											<br>
+											<p>Sebelum mulai berkarya <u>pastikan</u> kamu membaca ketentuan umum di bawah ini:
+                                            </p>
                                         </div>
 									</td>
 								</tr>
@@ -194,7 +208,9 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr align="center">
                                     <td>
                                         <div class="" style="">
-                                            <div class="" style="text-align: center"><a href="https://creasi.co.id/jobboard" style="width:auto; border-radius:5px; font-size:16px; font-weight:700; padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;" target="_blank">Apply Now</a></div>
+                                            <div class="" style="text-align: center">
+                                                <a href="http://omb.creasi.co.id/" style="width:auto; border-radius:5px; font-size:16px; font-weight:700; padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;" target="_blank">Ketentuan Umum</a>
+                                            </div>
                                         </div>
                                     </td>
 								</tr>
