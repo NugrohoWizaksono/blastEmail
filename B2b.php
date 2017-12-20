@@ -116,7 +116,8 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
 									<td>
 									<div style="padding-top: 30px;">
-									<h2 style="text-align:center;"><span style="color:#d02027">Creasi</span> Online Job Fair 2017</h2>
+									<h2 style="text-align:center;">Pasang lowongan kerja <br />khusus bidang kreatif di
+                                        <span style="color:#d02027">Creasi</span></h2>
 									</div>
 									</td>
 								</tr>
@@ -141,16 +142,30 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 							<tbody>
 								<tr>
 									<td>
-									<div style="padding: 0 40px; font-size: 14px;">
-									<p>Dear Talent Seekers,<br />
-									<br />
-									Apakah perusahaan Anda sedang mencari graphic designer, art director, web designer, account executive, copywriter, social media officer, content writer, video editor, photographer atau pekerja kreatif lainnya?<br />
-									&nbsp;</p>
-									</div>
+                                        <div style="padding: 0 40px; font-size: 14px;">
+                                            <p>Dear Talent Seekers,</p><br />
+                                        <br />
+                                            <p>Apakah Anda masih kesulitan merekrut graphic designer, social media officer, content writer, photographer, copywriter, account executive dan pekerja kreatif lainnya?</p>
+                                        <br />
+                                        <p>Sudah coba pasang lowongan kerja di <a style="color:#d02027" href="https://www.creasi.co.id/" target="_blank"><b>www.creasi.co.id</b></a>? Website lowongan kerja khusus bidang kreatif ini telah aktif sejak akhir 2014 dan sampai sekarang telah:</p>
+                                        <br />
+                                            <ul style="padding-left: 20px;">
+                                                <li>Mengumpulkan 30.000+ database pekerja kreatif di kota-kota besar di Indonesia</li>
+                                                <li>Membangun network dengan 50+ kampus dengan jurusan Desain Komunikasi Visual maupun Ilmu Komunikasi di seluruh Indonesia</li>
+                                                <li>Membantu 1000+ perusahaan besar maupun kecil dalam merekerut pekerja kreatif</li>
+                                            </ul>
+                                        <br />
+                                        <p>Pastikan proses rekrutmen anda diawali dengan pasang lowongan kerja di situs portal lowongan kerja yang relevan dan sangat mudah. Tidak lain dan sudah pasti di <a style="color:#d02027" href="https://www.creasi.co.id/" target="_blank"><b>www.creasi.co.id</b></a> lah tempatnya.</p>
+                                        <br />
+                                        </div>
 									</td>
 								</tr>
 								<tr>
-									<td style="text-align:center; width:100%"><img alt="creasi-poster" src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/beNwSDL11i.png" style="width:550px" /></td>
+									<td>
+                                        <div class="" style="color: #a1a3a6; font-size: 14px; text-align: center; padding:20px 40px;  background-color: white;">
+                                            <a href="https://www.creasi.co.id/postjob/start" target="_blank" style="width:350px; border-radius:5px; font-size:16px; font-weight:700;padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;">PASANG LOWONGAN</a>
+                                        </div>
+                                    </td>
 								</tr>
 							</tbody>
 						</table>
@@ -169,24 +184,13 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
 									<td>
 									<div style="padding: 20px 40px 40px; font-size: 14px;">
-									<p><strong style="color:#d02027">Joker</strong> adalah Online Job Fair yang rutin diadakan <span style="color:#d02027">Creasi</span> setiap tahunnya. Setelah sukses pada tahun 2016, kali ini Joker 2017 kembali dengan fokus pada lowongan pekerjaan di bidang <strong>Desain Komunikasi Visual (DKV) dan Ilmu Komunikasi (Ilkom).</strong><br />
-									<br />
-									Kirim segera lowongan kerja perusahaan Anda sebelum <strong>31 Oktober&nbsp;2017</strong> untuk berpartisipasi dalam acara Creasi Online Job Fair edisi DKV &amp; Ilkom 2017 dan dapatkan banyak pelamar yang berkualitas.<br />
-									&nbsp;</p>
-
-									<p><strong>Kenapa perusahaan Anda harus ikut serta?</strong><br />
-									&nbsp;</p>
-
-									<ul>
-										<li style="margin-left:30px;font-size:14px; margin-bottom:5px;">Hanya dengan membayar <strong style="color:#d02027">Rp 250.000,-</strong> Anda bisa memasang Lowongan Kerja sebanyak-banyaknya (unlimited) untuk kategori DKV &amp; Ilkom selama event berlangsung. Jauh lebih murah dibanding harga normal Creasi saat ini yaitu <span style="color:#d02027">Rp 350.000,- per 1 job post.</span></li>
-										<li style="margin-left:30px;font-size:14px; margin-bottom:5px;">Perusahaan akan mendapatkan tambahan lagi <strong style="color:#d02027">1 job post kredit gratis</strong> yang dapat digunakan setelah event Joker 2017</li>
-										<li style="margin-left:30px;font-size:14px; margin-bottom:5px;">Creasi memiliki jaringan lebih dari 50 kampus jurusan DKV &amp; Ilkom di seluruh Indonesia untuk menyebarkan informasi lowongan kerja kepada fresh graduates dan alumni mereka.</li>
-										<li style="margin-left:30px;font-size:14px; margin-bottom:5px;">Harga job post di Creasi akan mengalami kenaikan harga mulai 1 November 2017. Jadi, buruan manfaatkan kesempatan ini sebelum harga naik!</li>
-									</ul>
-									&nbsp;
-
-									<p style="font-size:14px; line-height:1.5;">Jangan ragu lagi! Ayo segera kirimkan lowongan kerja pekerjaan Anda ke <span style="color:#d02027">reza@creasi.co.id</span> sebelum <strong>31 Oktober&nbsp;2017!!</strong></p>
-									</div>
+									
+                                        <p>Mulai Nopember 2017 ada harga baru untuk paket job posting di <a style="color:#d02027" href="https://www.creasi.co.id/" target="_blank"><b>www.creasi.co.id.</b></a>  Untuk <span style="color:#d02027">penawaran harga spesial</span> atau informasi lebih lanjut silakan hubungi Customer Relations Officer kami di <b>021-2954 4802</b> atau <b>reza@creasi.co.id</b></p>
+                                    <br />
+                                        <p>Menseleksi dan me-hiring pekerja kreatif akan menjadi sangat mudah dan sesuai ekspektasi perusahaan anda.</p>
+                                    <br />
+                                        <p>Salam Kreatif!!!</p>
+                                    </div>
 									</td>
 								</tr>
 							</tbody>
@@ -197,25 +201,6 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 			</table>
 			<!-- Button -->
 
-			<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
-				<tbody>
-					<tr>
-						<td>
-						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="background-color:white; width:600px">
-							<tbody>
-								<tr>
-									<td>
-									<div>
-									<div style="text-align: center">&nbsp;</div>
-									</div>
-									</td>
-								</tr>
-							</tbody>
-						</table>
-						</td>
-					</tr>
-				</tbody>
-			</table>
 			<!-- Footer -->
 
 			<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
@@ -226,7 +211,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 							<tbody>
 								<tr>
 									<td>
-									<div style="padding: 60px 70px 30px; color: grey; font-size: 14px; text-align: center;">
+									<div style="padding: 20px 70px 30px; color: grey; font-size: 14px; text-align: center;">
 									<p>Jika ada pertanyaan, jangan ragu untuk menghubungi kami <a href="http://creasi.co.id/contactus" style="color:#D02027; text-decoration:none;" target="_blank">di sini</a> atau chat di website kami.</p>
 									</div>
 									</td>

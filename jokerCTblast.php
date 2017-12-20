@@ -116,7 +116,8 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
 									<td>
 									<div style="padding-top: 30px;">
-									<h2 style="text-align:center;"><span style="color:#d02027">Creasi</span> Online Job Fair 2017</h2>
+									<h2 style="text-align:center;">Ayo apply ratusan lowongan Kerja di<br />
+									<span style="color:#d02027">Joker - Creasi Online Job Fair 2017</span></h2>
 									</div>
 									</td>
 								</tr>
@@ -141,16 +142,16 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 							<tbody>
 								<tr>
 									<td>
-									<div style="padding: 0 40px; font-size: 14px;">
-									<p>Dear Talent Seekers,<br />
+									<div style="padding: 0 40px; font-size: 16px;">
+									<p>Hi Teman Kreatif,<br />
 									<br />
-									Apakah perusahaan Anda sedang mencari graphic designer, art director, web designer, account executive, copywriter, social media officer, content writer, video editor, photographer atau pekerja kreatif lainnya?<br />
+									Kamu lulusan DKV atau Ilmu Komunikasi? Lagi cari kerja? Sudah ikutan <span style="color:#d02027">JOKER 2017?</span><br />
 									&nbsp;</p>
 									</div>
 									</td>
 								</tr>
 								<tr>
-									<td style="text-align:center; width:100%"><img alt="creasi-poster" src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/beNwSDL11i.png" style="width:550px" /></td>
+									<td style="text-align:center; width:100%"><img alt="creasi-poster" src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/yoG68n0aIXi.jpg" style="width:550px" /></td>
 								</tr>
 							</tbody>
 						</table>
@@ -168,24 +169,16 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 							<tbody>
 								<tr>
 									<td>
-									<div style="padding: 20px 40px 40px; font-size: 14px;">
-									<p><strong style="color:#d02027">Joker</strong> adalah Online Job Fair yang rutin diadakan <span style="color:#d02027">Creasi</span> setiap tahunnya. Setelah sukses pada tahun 2016, kali ini Joker 2017 kembali dengan fokus pada lowongan pekerjaan di bidang <strong>Desain Komunikasi Visual (DKV) dan Ilmu Komunikasi (Ilkom).</strong><br />
+									<div style="padding: 20px 40px; font-size: 16px;">
+									<p><span style="color:#d02027">JOKER</span> adalah event Online Job Fair yang diselenggarakan oleh Creasi.co.id untuk membantu mahasiswa/i lulusan DKV & Ilmu Komunikasi dan pekerja kreatif lainnya dalam menemukan pekerjaan yang sesuai dengan minat serta passion mereka.<br />
+									&nbsp;</p>
 									<br />
-									Kirim segera lowongan kerja perusahaan Anda sebelum <strong>31 Oktober&nbsp;2017</strong> untuk berpartisipasi dalam acara Creasi Online Job Fair edisi DKV &amp; Ilkom 2017 dan dapatkan banyak pelamar yang berkualitas.<br />
-									&nbsp;</p>
+									
+									Ada ratusan lowongan kerja seperti <span style="color:#d02027">graphic designer, copywriter, social media officer, account executive, content writer, web designer</span> dan banyak lainnya!
+                                    <br />
+                                    <br />
+                                    Ayo segera update CV&Portfolio kamu dan apply lowongan Kerja yang sesuai dengan kamu.
 
-									<p><strong>Kenapa perusahaan Anda harus ikut serta?</strong><br />
-									&nbsp;</p>
-
-									<ul>
-										<li style="margin-left:30px;font-size:14px; margin-bottom:5px;">Hanya dengan membayar <strong style="color:#d02027">Rp 250.000,-</strong> Anda bisa memasang Lowongan Kerja sebanyak-banyaknya (unlimited) untuk kategori DKV &amp; Ilkom selama event berlangsung. Jauh lebih murah dibanding harga normal Creasi saat ini yaitu <span style="color:#d02027">Rp 350.000,- per 1 job post.</span></li>
-										<li style="margin-left:30px;font-size:14px; margin-bottom:5px;">Perusahaan akan mendapatkan tambahan lagi <strong style="color:#d02027">1 job post kredit gratis</strong> yang dapat digunakan setelah event Joker 2017</li>
-										<li style="margin-left:30px;font-size:14px; margin-bottom:5px;">Creasi memiliki jaringan lebih dari 50 kampus jurusan DKV &amp; Ilkom di seluruh Indonesia untuk menyebarkan informasi lowongan kerja kepada fresh graduates dan alumni mereka.</li>
-										<li style="margin-left:30px;font-size:14px; margin-bottom:5px;">Harga job post di Creasi akan mengalami kenaikan harga mulai 1 November 2017. Jadi, buruan manfaatkan kesempatan ini sebelum harga naik!</li>
-									</ul>
-									&nbsp;
-
-									<p style="font-size:14px; line-height:1.5;">Jangan ragu lagi! Ayo segera kirimkan lowongan kerja pekerjaan Anda ke <span style="color:#d02027">reza@creasi.co.id</span> sebelum <strong>31 Oktober&nbsp;2017!!</strong></p>
 									</div>
 									</td>
 								</tr>
@@ -195,19 +188,17 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 					</tr>
 				</tbody>
 			</table>
-			<!-- Button -->
+			<!-- Button --><!-- Footer -->
 
 			<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
 				<tbody>
 					<tr>
 						<td>
-						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="background-color:white; width:600px">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="width:600px">
 							<tbody>
-								<tr>
+								<tr style="display:;">
 									<td>
-									<div>
-									<div style="text-align: center">&nbsp;</div>
-									</div>
+									<div style="color: #a1a3a6; font-size: 14px; text-align: center; padding:10px 40px 0px;  background-color: white;"><a href="https://www.creasi.co.id/jobboard" style="width:350px; border-radius:5px; font-size:16px; font-weight:700;padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;" target="_blank">Lihat lowongan Kerja</a></div>
 									</td>
 								</tr>
 							</tbody>
