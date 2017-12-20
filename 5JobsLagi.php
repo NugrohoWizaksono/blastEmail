@@ -140,19 +140,24 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 				<tbody>
 					<tr>
 						<td>
-						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="background-color:white; width:600px"><!--Jobs Item 1-->
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="background-color:white; width:600px">
+							
 							<tbody>
+                                <!--Jobs Item 1-->
 								<tr>
 									<td>
-									<div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;"><a href="https://www.creasi.co.id/jobboard/2002/graphic-designer?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">Graphic Designer </a>
-
-									<div style="color: #a1a3a6; font-size:12px;">
-									<p>Agung Sedayu Group - Jakarta Utara</p>
-									</div>
-									</div>
+                                        <div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
+                                            <a href="https://www.creasi.co.id/jobboard/2006/2d-animator?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">
+                                            2D Animator
+                                        </a>
+                                        <div style="color: #a1a3a6; font-size:12px;">
+                                            <p>Catalyze Communications - Denpasar</p>
+                                        </div>
+                                        </div>
 									</td>
 									<td>
-									<div style="padding: 20px 0px; width: 150px; text-align: center;"><a href="https://www.creasi.co.id/jobboard/2002/graphic-designer?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
+                                        <div style="padding: 20px 0px; width: 150px; text-align: center;">
+                                            <a href="https://www.creasi.co.id/jobboard/2006/2d-animator?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
 									</td>
 								</tr>
 								<tr>
@@ -160,17 +165,22 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 									<div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;"> </div>
 									</td>
 								</tr>
+                                
 								<!--Jobs Item 2-->
 								<tr>
 									<td>
-									<div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;"><a href="https://www.creasi.co.id/jobboard/2028/social-media-executive?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">SOCIAL MEDIA EXECUTIVE </a>
+									<div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
+										<a href="https://www.creasi.co.id/jobboard/2005/senior-graphic-designer?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">
+										Senior Graphic Designer
+									</a>
 									<div style="color: #a1a3a6; font-size:12px;">
-									<p>PT Multi Kanal Media - Jakarta Selatan</p>
+										<p>Catalyze Communications - Denpasar</p>
 									</div>
 									</div>
 									</td>
 									<td>
-									<div style="padding: 20px 0px; width: 150px; text-align: center;"><a href="https://www.creasi.co.id/jobboard/2028/social-media-executive?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
+									<div style="padding: 20px 0px; width: 150px; text-align: center;">
+										<a href="https://www.creasi.co.id/jobboard/2005/senior-graphic-designer?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
 									</td>
 								</tr>
 								<tr>
@@ -178,17 +188,22 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 									<div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;"> </div>
 									</td>
 								</tr>
+                                
 								<!--Jobs Item 3-->
 								<tr>
 									<td>
-									<div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;"><a href="https://www.creasi.co.id/jobboard/2021/part-time-photographer?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">Part Time Photographer </a>
+									<div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
+										<a href="https://www.creasi.co.id/jobboard/2008/female-graphic-designer-wanted?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">
+										Female Graphic Designer wanted!
+									</a>
 									<div style="color: #a1a3a6; font-size:12px;">
-									<p>Tinkerlust - Jakarta Pusat</p>
+										<p>Creativeclutters - Jakarta Barat</p>
 									</div>
 									</div>
 									</td>
 									<td>
-									<div style="padding: 20px 0px; width: 150px; text-align: center;"><a href="https://www.creasi.co.id/jobboard/2021/part-time-photographer?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
+									<div style="padding: 20px 0px; width: 150px; text-align: center;">
+                                        <a href="https://www.creasi.co.id/jobboard/2008/female-graphic-designer-wanted?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
 									</td>
 								</tr>
 								<tr>
@@ -196,17 +211,22 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 									<div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;"> </div>
 									</td>
 								</tr>
+                                
 								<!--Jobs Item 4-->
 								<tr>
 									<td>
-									<div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;"><a href="https://www.creasi.co.id/jobboard/2023/junior-graphic-designer-fresh-graduate-intern?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">Junior Graphic Designer (Fresh Graduate/ Intern) </a>
+									<div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
+										<a href="https://www.creasi.co.id/jobboard/1999/photographer?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">
+										Photographer
+									</a>
 									<div style="color: #a1a3a6; font-size:12px;">
-									<p>PT. Desain Tiga Selaras (DesignCub3) - Jakarta Selatan</p>
+										<p>Muse Photography Jakarta - Jakarta Utara</p>
 									</div>
 									</div>
 									</td>
 									<td>
-									<div style="padding: 20px 0px; width: 150px; text-align: center;"><a href="https://www.creasi.co.id/jobboard/2023/junior-graphic-designer-fresh-graduate-intern?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
+									<div style="padding: 20px 0px; width: 150px; text-align: center;">
+										<a href="https://www.creasi.co.id/jobboard/1999/photographer?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
 									</td>
 								</tr>
 								<tr>
@@ -214,17 +234,22 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 									<div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;"> </div>
 									</td>
 								</tr>
+                                
 								<!--Jobs Item 5-->
 								<tr>
 									<td>
-									<div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;"><a href="https://www.creasi.co.id/jobboard/2018/internship-creative-design?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">Internship Creative Design </a>
+									<div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
+										<a href="https://www.creasi.co.id/jobboard/1978/asisten-packaging-designer?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">
+										ASISTEN PACKAGING DESIGNER
+									</a>
 									<div style="color: #a1a3a6; font-size:12px;">
-									<p>PT Mitra Pajakku - Jakarta Barat</p>
+										<p>CLARICE  - Surabaya</p>
 									</div>
 									</div>
 									</td>
 									<td>
-									<div style="padding: 20px 0px; width: 150px; text-align: center;"><a href="https://www.creasi.co.id/jobboard/2018/internship-creative-design?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
+									<div style="padding: 20px 0px; width: 150px; text-align: center;">
+										<a href="https://www.creasi.co.id/jobboard/1978/asisten-packaging-designer?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
 									</td>
 								</tr>
 								<tr>
