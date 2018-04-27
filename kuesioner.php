@@ -5,7 +5,7 @@
 @font-face{ font-family:"Proxima N W01 At Smbd"; src:url("http://www.stampready.net/css/Fonts/a9f16204-0ff0-4a9e-8a02-59d15bc5f66b.eot?#iefix"); src:url("http://www.stampready.net/css/Fonts/a9f16204-0ff0-4a9e-8a02-59d15bc5f66b.eot?#iefix") format("eot"),url("http://www.stampready.net/css/Fonts/6e328769-56a5-4de1-957e-575f839df36d.woff") format("woff"),url("http://www.stampready.net/css/Fonts/b5b3aa5a-a6be-4897-a646-09224334b90b.ttf") format("truetype"),url("http://www.stampready.net/css/Fonts/bcade2c9-7691-43e7-9c1b e6b2ac50ee97.svg#bcade2c9-7691-43e7-9c1b-e6b2ac50ee97") format("svg"); }
 
 /* Reset */
-* { margin-top: 0px; margin-bottom: 0px; padding: 0px; border: none; line-height: normal; outline: none; list-style: none; -webkit-text-size-adjust: none; -ms-text-size-adjust: none; }
+* { margin-top: 0px; margin-bottom: 0px; padding: 0px; border: none; line-height: normal; outline: none; list-style:; -webkit-text-size-adjust: none; -ms-text-size-adjust: none; }
 
 table { border-collapse: collapse !important; padding: 0px !important; border: none !important; border-bottom-width: 0px !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
 table td { border-collapse: collapse; }
@@ -61,7 +61,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 			<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
 				<tbody>
 					<tr>
-						<td> </td>
+						<td>&nbsp;</td>
 					</tr>
 				</tbody>
 			</table>
@@ -71,20 +71,20 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 				<tbody>
 					<tr>
 						<td>
-						<p> </p>
+						<p>&nbsp;</p>
 
 						<table align="center" border="0" cellpadding="0" cellspacing="0" class="table600" style="background-color:#222222; background-position:top; background-size:cover; border-bottom:5px solid #e0e5eb; border-top-left-radius:6px; border-top-right-radius:6px; width:600px">
 							<tbody>
 								<tr>
-									<td> </td>
+									<td>&nbsp;</td>
 								</tr>
 								<tr>
 									<td>
-									<div style="padding-top: 15px;"> </div>
+									<div style="padding-top: 15px;">&nbsp;</div>
 									<img alt="creasi-logo" src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/Yaf8HzoSSjVdZiyhdDr.PNG" style="display:block; height:75px; margin:auto; width:75px" /></td>
 								</tr>
 								<tr>
-									<td> </td>
+									<td>&nbsp;</td>
 								</tr>
 								<tr>
 									<td>
@@ -94,7 +94,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 									</td>
 								</tr>
 								<tr>
-									<td> </td>
+									<td>&nbsp;</td>
 								</tr>
 							</tbody>
 						</table>
@@ -111,12 +111,14 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="background-color:white; width:600px">
 							<tbody>
 								<tr>
-									<td> </td>
+									<td>&nbsp;</td>
 								</tr>
 								<tr>
 									<td>
 									<div style="padding-top: 30px;">
-									<h2 style="text-align:center;">5 lowongan kerja pilihan <span style="color:#d02027">Creasi</span> minggu ini.</h2>
+									<h2 style="text-align:center;">
+                                        Kebutuhan Posisi Pekerja Magang (Internship) bidang kreatif di Perusahaan Anda
+                                    </h2>
 									</div>
 									</td>
 								</tr>
@@ -125,146 +127,13 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 									<div style="padding: 30px 0; text-align: center;"><img alt="creasi-dotted" src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/aPXCB7u4.png" /></div>
 									</td>
 								</tr>
-								<tr>
-									<td> </td>
-								</tr>
 							</tbody>
 						</table>
 						</td>
 					</tr>
 				</tbody>
 			</table>
-			<!-- Lowongan -->
-
-			<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
-				<tbody>
-					<tr>
-						<td>
-						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="background-color:white; width:600px">
-							
-							<tbody>
-                                <!--Jobs Item 1-->
-								<tr>
-									<td>
-                                        <div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
-                                            <a href="https://www.creasi.co.id/jobboard/2237/associate-production-manager?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">
-                                            Associate Producer
-                                        </a>
-                                        <div style="color: #a1a3a6; font-size:12px;">
-                                            <p>PT. FORTUNE INDONESIA, Tbk - Jakarta Selatan</p>
-                                        </div>
-                                        </div>
-									</td>
-									<td>
-                                        <div style="padding: 20px 0px; width: 150px; text-align: center;">
-                                            <a href="https://www.creasi.co.id/jobboard/2237/associate-production-manager?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
-									</td>
-								</tr>
-								<tr>
-									<td colspan="2">
-									<div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;"> </div>
-									</td>
-								</tr>
-                                
-								<!--Jobs Item 2-->
-								<tr>
-									<td>
-									<div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
-										<a href="https://www.creasi.co.id/jobboard/2240/art-director?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">
-										Art Director
-									</a>
-									<div style="color: #a1a3a6; font-size:12px;">
-										<p>PT Flux Asia Solusindo - Tangerang</p>
-									</div>
-									</div>
-									</td>
-									<td>
-									<div style="padding: 20px 0px; width: 150px; text-align: center;">
-										<a href="https://www.creasi.co.id/jobboard/2240/art-director?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a>
-                                    </div>
-									</td>
-								</tr>
-								<tr>
-									<td colspan="2">
-									<div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;"> </div>
-									</td>
-								</tr>
-                                
-								<!--Jobs Item 3-->
-								<tr>
-									<td>
-									<div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
-										<a href="https://www.creasi.co.id/jobboard/2215/wedding-video-editor?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">
-										Wedding Video Editor
-									</a>
-									<div style="color: #a1a3a6; font-size:12px;">
-										<p>Edit.co - Tangerang</p>
-									</div>
-									</div>
-									</td>
-									<td>
-									<div style="padding: 20px 0px; width: 150px; text-align: center;">
-                                        <a href="https://www.creasi.co.id/jobboard/2215/wedding-video-editor?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
-									</td>
-								</tr>
-								<tr>
-									<td colspan="2">
-									<div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;"> </div>
-									</td>
-								</tr>
-                                
-								<!--Jobs Item 4-->
-								<tr>
-									<td>
-									<div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
-										<a href="https://www.creasi.co.id/jobboard/2234/graphic-design-officer?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">
-										Graphic Design Officer
-									</a>
-									<div style="color: #a1a3a6; font-size:12px;">
-										<p>PT Central Mall Kelola - Jakarta Barat</p>
-									</div>
-									</div>
-									</td>
-									<td>
-									<div style="padding: 20px 0px; width: 150px; text-align: center;">
-										<a href="https://www.creasi.co.id/jobboard/2234/graphic-design-officer?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
-									</td>
-								</tr>
-								<tr>
-									<td colspan="2">
-									<div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;"> </div>
-									</td>
-								</tr>
-                                
-								<!--Jobs Item 5-->
-								<tr>
-									<td>
-									<div style="width: 350px; padding:20px 40px; font-size:16px; color:#000; font-family:'Proxima N W01 At Smbd', Helvetica, Arial, sans-serif; font-size: 16px;">
-										<a href="https://www.creasi.co.id/jobboard/2236/graphic-design-for-apps-webmobile-development?ref=jobboard" style=" color:#D02027; text-decoration:none; line-height: 48px;" target="_blank">
-										Graphic Design For Apps Web/Mobile Development
-									</a>
-									<div style="color: #a1a3a6; font-size:12px;">
-										<p>PT Armira Sistem Nusantara - Jakarta Selatan</p>
-									</div>
-									</div>
-									</td>
-									<td>
-									<div style="padding: 20px 0px; width: 150px; text-align: center;">
-										<a href="https://www.creasi.co.id/jobboard/2236/graphic-design-for-apps-webmobile-development?ref=jobboard" style="border-radius:5px; font-size:11px; font-weight:700; padding:10px 20px; background-color:#ECEFF3; color:#000; text-decoration:none;" target="_blank">Apply Now</a></div>
-									</td>
-								</tr>
-								<tr>
-									<td colspan="2">
-									<div style="background-color:#ECEFF3; width:520px; margin:auto; display:block; height: 2px;"> </div>
-									</td>
-								</tr>
-							</tbody>
-						</table>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			<!-- Footer -->
+			<!-- Banner -->
 
 			<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
 				<tbody>
@@ -272,28 +141,48 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 						<td>
 						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="background-color:white; width:600px">
 							<tbody>
-								<tr style="display:block;">
+								<tr>
 									<td>
-									<div style="line-height: 2;text-align: center; color: #a1a3a6; font-size: 14px; padding:20px 40px 0px 40px; ">Ayo Jangan lewatkan kesempatan kamu untuk bekerja di perusahaan-perusahaan bagus yang kamu inginkan karena tanggal job closingnya semakin mendekat loh. Tunggu apa lagi?</div>
+                                        <div style="padding: 0 40px; font-size: 14px;">
+                                            <p style="line-height: 18px; text-align: center;">Dear Talent Seekers,</p><br />
+                                            <br />
+                                                <p style="line-height: 18px; text-align: center;">Dengan banyaknya project dari client side yang akan dihandle oleh perusahaan Anda sepanjang tahun 2018 ini, ternyata masih banyak user yang masih kekurangan man power untuk menghandle semua pekerjaan kreatif yang ada. Namun, di sisi lain perusahaan tidak harus buru – buru untuk merekrut karyawan baru (full timer).</p>
+                                            <br /><br />
+                                            <p style="line-height: 18px; text-align: center;">Dengan masalah di atas, salah satu solusi yang Creasi berikan adalah dengan merekrut pekerja kreatif magang (internship program) yang siap sedia membantu perusahaan dan user dalam menyelesaikan semua client project yang akan segera membuat jam kerja menjadi sangat hectic. <br /><br /><br />
+                                                Creasi akan menghadirkan kembali event online job fair khusus untuk rekrutmen pekerja kreatif magang (internship program), oleh karena itu mohon izin meminta waktu Talent Seekers untuk mengisi form kuesioner yang telah kami siapkan di tombol bawah.
+                                            </p>
+                                            <br /><br />
+                                        </div>
 									</td>
 								</tr>
-							</tbody>
-						</table>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			<!-- Footer -->
-
-			<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
-				<tbody>
-					<tr>
-						<td>
-						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="width:600px">
-							<tbody>
 								<tr style="display:;">
 									<td>
-									<div style="color: #a1a3a6; font-size: 14px; text-align: center; padding:20px 40px;  background-color: white;"><a href="https://www.creasi.co.id/jobboard" style="width:350px; border-radius:5px; font-size:16px; font-weight:700;padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;" target="_blank">Yuk kita ke Job Board!</a></div>
+									<div style="color: #a1a3a6; font-size: 14px; text-align: center; padding:20px 40px;  background-color: white;"><a href="https://goo.gl/forms/fInUjhDNwq9zAlY02" style="width:350px; border-radius:5px; font-size:16px; font-weight:700;padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;" target="_blank">Kuesioner</a></div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- Caption -->
+
+			<!-- Button -->
+
+			<!-- Footer -->
+
+			<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
+				<tbody>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="background-color:white; padding-bottom:50px; width:600px">
+							<tbody>
+								<tr>
+									<td>
+									<div style="padding: 20px 70px 30px; color: grey; font-size: 14px; text-align: center;">
+                                        <p>Untuk infomasi lebih lanjut silakan hubungi Customer Relations Officer kami di <span style="color:#D02027;">021-2954 4802</span> atau <span style="color:#D02027;">reza@creasi.co.id</span> .</p>
+									</div>
 									</td>
 								</tr>
 							</tbody>
@@ -323,7 +212,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 									</td>
 								</tr>
 								<tr>
-									<td> </td>
+									<td>&nbsp;</td>
 								</tr>
 							</tbody>
 						</table>

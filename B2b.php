@@ -116,8 +116,9 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
 									<td>
 									<div style="padding-top: 30px;">
-									<h2 style="text-align:center;">Pasang lowongan kerja <br />khusus bidang kreatif di
-                                        <span style="color:#d02027">Creasi</span></h2>
+									<h2 style="text-align:center;">
+                                        Free 1 Job Post Senilai Rp 500.000
+                                    </h2>
 									</div>
 									</td>
 								</tr>
@@ -142,31 +143,21 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 							<tbody>
 								<tr>
 									<td>
-                                        <div style="padding: 0 40px; font-size: 14px;">
+                                        <div style="padding: 0 40px; font-size: 14px; text-align: center;">
                                             <p>Dear Talent Seekers,</p><br />
-                                        <br />
-                                            <p>Apakah Anda masih kesulitan merekrut graphic designer, social media officer, content writer, photographer, copywriter, account executive dan pekerja kreatif lainnya?</p>
-                                        <br />
-                                        <p>Sudah coba pasang lowongan kerja di <a style="color:#d02027" href="https://www.creasi.co.id/" target="_blank"><b>www.creasi.co.id</b></a>? Website lowongan kerja khusus bidang kreatif ini telah aktif sejak akhir 2014 dan sampai sekarang telah:</p>
-                                        <br />
-                                            <ul style="padding-left: 20px;">
-                                                <li>Mengumpulkan 30.000+ database pekerja kreatif di kota-kota besar di Indonesia</li>
-                                                <li>Membangun network dengan 50+ kampus dengan jurusan Desain Komunikasi Visual maupun Ilmu Komunikasi di seluruh Indonesia</li>
-                                                <li>Membantu 1000+ perusahaan besar maupun kecil dalam merekerut pekerja kreatif</li>
-                                            </ul>
-                                        <br />
-                                        <p>Pastikan proses rekrutmen anda diawali dengan pasang lowongan kerja di situs portal lowongan kerja yang relevan dan sangat mudah. Tidak lain dan sudah pasti di <a style="color:#d02027" href="https://www.creasi.co.id/" target="_blank"><b>www.creasi.co.id</b></a> lah tempatnya.</p>
-                                        <br />
+                                            <br />
+                                                <p>Ingin merasakan betapa mudah nya merekrut pekerja kreatif seperti, graphic designer, social media officer, content writer, photographer, copywriter, account executive dan pekerja kreatif lainnya, sekaligus dapat bonus free 1 job posting?</p>
+                                            <br />
+                                            <p>Buruan ambil kesempatan ini!!!</p>
+                                            <br /><br />
                                         </div>
 									</td>
 								</tr>
-								<tr>
-									<td>
-                                        <div class="" style="color: #a1a3a6; font-size: 14px; text-align: center; padding:20px 40px;  background-color: white;">
-                                            <a href="https://www.creasi.co.id/postjob/start" target="_blank" style="width:350px; border-radius:5px; font-size:16px; font-weight:700;padding:10px 20px; background-color:#D02027; color:#fff; text-decoration:none;">PASANG LOWONGAN</a>
-                                        </div>
+                                <tr>                                  
+                                    <td  style="padding: 0 30px;">
+                                        <img src="https://s3-ap-southeast-1.amazonaws.com/creasi/production/files/9XtyAYIDhHbT7329A0Z2W.jpg" width="525" alt="" border="0" class="hover">
                                     </td>
-								</tr>
+                                </tr>
 							</tbody>
 						</table>
 						</td>
@@ -184,12 +175,23 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
 									<td>
 									<div style="padding: 20px 40px 40px; font-size: 14px;">
-									
-                                        <p>Mulai Nopember 2017 ada harga baru untuk paket job posting di <a style="color:#d02027" href="https://www.creasi.co.id/" target="_blank"><b>www.creasi.co.id.</b></a>  Untuk <span style="color:#d02027">penawaran harga spesial</span> atau informasi lebih lanjut silakan hubungi Customer Relations Officer kami di <b>021-2954 4802</b> atau <b>reza@creasi.co.id</b></p>
-                                    <br />
-                                        <p>Menseleksi dan me-hiring pekerja kreatif akan menjadi sangat mudah dan sesuai ekspektasi perusahaan anda.</p>
-                                    <br />
-                                        <p>Salam Kreatif!!!</p>
+                                        <br />
+                                        <b>Kenapa harus posting job di CREASI?</b>
+                                        <br /><br />
+                                        <ul style="padding-left: 20px;">
+                                            <li><b>RELEVANT APPLICANTS</b> – Creasi dirancang khusus untuk industry kreatif dan telah mengumpulkan database Creative Talent (Pekerja Kreatif) lebih  dari 30.000</li>
+                                            <li><b>TARGETED AUDIENCE</b>  – Creasi telah membangun network dengan 50+ kampus dengan jurusan Desain Komunikasi Visual maupun Ilmu Komunikasi di seluruh Indonesia</li>
+                                            <li><b>EXPERIENCE</b> – Creasi telah membantu 1000+ perusahaan besar maupun kecil dalam merekerut pekerja kreatif</li>
+                                        </ul>
+                                        <br /><br />
+                                        <b>Benefit posting job di Creasi:</b>
+                                        <br /><br />
+                                        <ul style="padding-left: 20px;">
+                                            <li>Iklan akan tayang selama 30 hari</li>
+                                            <li>Iklan akan dibump up di halaman utama Job Board Creasi di hari ke 15 setelah tayang</li>
+                                            <li>Match-making service</li>
+                                            <li>1 free job post untuk setiap pembelian paket apapun</li>
+                                        </ul>
                                     </div>
 									</td>
 								</tr>
@@ -212,7 +214,7 @@ body { margin: 0px; padding: 0px; background-color: #FFFFFF;font-family:'Proxima
 								<tr>
 									<td>
 									<div style="padding: 20px 70px 30px; color: grey; font-size: 14px; text-align: center;">
-									<p>Jika ada pertanyaan, jangan ragu untuk menghubungi kami <a href="http://creasi.co.id/contactus" style="color:#D02027; text-decoration:none;" target="_blank">di sini</a> atau chat di website kami.</p>
+                                        <p>Untuk infomasi lebih lanjut silakan hubungi Customer Relations Officer kami di <span style="color:#D02027;">021-2954 4802</span> atau <span style="color:#D02027;">reza@creasi.co.id</span> .</p>
 									</div>
 									</td>
 								</tr>
